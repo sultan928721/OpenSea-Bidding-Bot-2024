@@ -1,3 +1,5 @@
+![Preview Image](maxresdefault-min.jpg)
+
 OpenSea Bidding Bot 2024
 Tip
 
